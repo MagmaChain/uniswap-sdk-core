@@ -23,7 +23,6 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/bignumber": "^5.7.0",
-
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.2.0",
@@ -42,5 +41,6 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "packageManager": "yarn@4.9.1+sha512.f95ce356460e05be48d66401c1ae64ef84d163dd689964962c6888a9810865e39097a5e9de748876c2e0bf89b232d583c33982773e9903ae7a76257270986538"
 }

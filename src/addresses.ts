@@ -118,13 +118,12 @@ const CELO_ADDRESSES: ChainAddresses = {
 
 const MAGMA_TESTNET_ADDRESSES: ChainAddresses = {
 
-
   multicallAddress: '0xC67981559A05Ab5D96a3e365d24385C8b44AD4Bb',
-  quoterAddress: '0xcb4CCDAdD8b47807a4317C7a1b24a606eEC9682A',
-  tickLensAddress: '0x2E9E13029390e561918FfD3599eec78cAf8ab063',
+  quoterAddress: '0xabC27445ddF303594a382627663aEd36870948E4',
+  tickLensAddress: '0x626EA00E2c78f16C3DD4c3dE94Bae2df38246a4A',
   v3CoreFactoryAddress: '0x6D8676147a648Ddf3835dfAF05F5f35B1AA17079',
-  v3MigratorAddress: '0xA81f7Da40BFcA80Dfa87662B9DCd6541cb78796d',
-  nonfungiblePositionManagerAddress: '0x6793f3D2687c2810a26c8a647B15B9Ac1f6Dbe62',
+  v3MigratorAddress: '0xd13871736e2C9a980fafAd7e55e77eD67603C2EF',
+  nonfungiblePositionManagerAddress: '0xE333Bc9d8ac35e6a2a7cEB05f718b02dd383693a',
 
 }
 
